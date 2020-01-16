@@ -1,6 +1,5 @@
 /* model.c
  * Emirhan YILMAZ
- * Öğrenci No:18120205037 
  * provides the grid (model) 
  * and functions to handle the grid for the game of life
  */
